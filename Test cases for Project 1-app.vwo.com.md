@@ -15,5 +15,5 @@ These test cases cover various scenarios related to the login and register funct
 
 ## Purpose
 The purpose of these test cases is to ensure the reliability and correctness of the login and register features on app.vwo.com.
-By systematically testing these functionalities, we aim to identify and address any potential issues or bugs.
+By systematically testing these functionalities,the aim was to identify and address any potential issues or bugs.
 
